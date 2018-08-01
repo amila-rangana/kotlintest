@@ -1,12 +1,17 @@
-{"menu": {
-  "id": "file",
-  "value": "File",
-  "popup": {
-    "menuitem": [
-      {"value": "New", "onclick": "CreateNewDoc()"},
-      {"value": "Open", "onclick": "OpenDoc()"},
-      {"value": "Close", "onclick": "CloseDoc()"}
-    ]
-  }
-}
-}
+"services" : [
+{
+"id" : "1",
+"name" : "Photography",
+"description" : "Cover all the events"
+},
+{
+"id" : "2",
+"name" : "Hotels",
+"description" : "Serve all the ocations"
+},
+{
+"id" : "3",
+"name" : "Salons",
+"description" : "We make you beauty"
+},
+]
