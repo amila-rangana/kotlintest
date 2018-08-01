@@ -1,4 +1,4 @@
-"services":  [
+{"services":  [
 {
 "id" : "1",
 "name" : "Photography",
@@ -14,4 +14,4 @@
 "name" : "Salons",
 "description" : "We make you beauty"
 }
-]
+]}
