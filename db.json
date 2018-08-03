@@ -2,12 +2,19 @@
 {
 "id":"1",
 "name":"Photography",
-"description":"Cover all the events"
+"description":"Cover all the events",
+
 },
 {
 "id":"2",
 "name":"Hotels",
-"description":"Serve all the ocations"
+"description":"Serve all the ocations",
+"photos":[
+  "https://www.weddingconnections.lk/media/djcatalog2/images/item/0/atrium_f.jpg",
+  "https://media-cdn.tripadvisor.com/media/photo-s/0d/e9/d9/e2/the-kingsbury.jpg",
+  "https://pix10.agoda.net/hotelImages/597/59737/59737_17061614220053737803.jpg?s=1024x768",
+  "https://media.timeout.com/images/102165221/630/472/image.jpg"
+]
 },
 {
 "id":"3",
