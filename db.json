@@ -3,7 +3,12 @@
 "id":"1",
 "name":"Photography",
 "description":"Cover all the events",
-
+"photos":[
+  "https://www.weddingconnections.lk/media/djcatalog2/images/item/0/studio-3000_f.jpg",
+  "https://selpura.lk/wp-content/uploads/2017/06/Studio-iroshan.jpg",
+  "http://1.bp.blogspot.com/-DnggobmmY48/TzjPQFqe3sI/AAAAAAAAMD4/pmGhZqZuyZo/s1600/Danushka%2BSenadeera.jpg",
+  "https://c2.staticflickr.com/4/3186/2648712651_2d5984c913_z.jpg?zz=1"
+]
 },
 {
 "id":"2",
@@ -19,6 +24,12 @@
 {
 "id":"3",
 "name":"Salons",
-"description":"We make you beauty"
+"description":"We make you beauty",
+"photos":[
+"http://srilankabusiness.net/wp-content/uploads/2016/06/2e5a0c29-5485-4295-ba56-78895b0c6eb2.jpg",
+"https://i.pinimg.com/originals/3a/ef/c6/3aefc69497ca13befa10e6cf543b58f6.jpg",
+"http://www.beautycosmeticslk.com/img/logo.png",
+"https://www.posebeautysalon.com/images/logo.png"
+]
 }
 ]}
