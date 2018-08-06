@@ -104,9 +104,8 @@
   }
   ]
 }
-]}
-
-"providers":[
+]},
+{"providers":[
 {
 "id":"11",
 "type":"1",
@@ -251,4 +250,4 @@
 "https://www.posebeautysalon.com/images/logo.png"
 ]
 }
-]
+]}
